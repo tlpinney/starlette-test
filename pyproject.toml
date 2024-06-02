@@ -5,7 +5,7 @@ description = "Add your description here"
 dependencies = [
     "starlette>=0.37.2",
     "uvicorn>=0.29.0",
-    "logfire @ file:///../logfire/dist/logfire-0.35.0-py2.py3-none-any.whl",
+    "logfire[starlette] @ file:///home/user/code/starlette-test/../logfire/dist/logfire-0.35.0-py2.py3-none-any.whl",
     "pipdeptree>=2.21.0",
 ]
 readme = "README.md"
