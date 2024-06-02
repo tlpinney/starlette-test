@@ -1,3 +1,3 @@
 # starlette-test
 
-Describe your project here.
+Small example starlette repo that can test different builds of logfire
